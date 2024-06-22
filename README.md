@@ -40,6 +40,4 @@ We welcome contributions to this project. Please follow these guidelines:
 3. If you encounter setup issues, ensure Go version 1.18 is installed correctly.
 
 
-## License
-This project is licensed under the MIT License. For more information, see the LICENSE file in the project repository.
 
